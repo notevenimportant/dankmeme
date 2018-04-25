@@ -17,6 +17,6 @@ notifications:
         recipients:
             - novakam1@gcc.edu
             - suttonle1@gcc.edu
-            - lundbergmj@gcc.edu
+            - lundbergmj1@gcc.edu
         on_sucess: always #default: change
         on_failure: always #default: always
